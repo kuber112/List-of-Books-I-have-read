@@ -25,7 +25,7 @@ In construction ⚒️
 |--------------|-----------|------------|
 | William Ross Ashby |   |
 | Shannon Eldwood Claude |  |
-| Norbert Wagner| |
+| Norbert Wiener| |
 |Gilbert Strang | |
 | John von Neumann | | 
 
