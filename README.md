@@ -11,3 +11,9 @@ Just want to share the books I have read. Keeps me accountable. A lot of the boo
 | The Problem of Increasing Human Energy by Nikola Tesla | | A physicist's approach to climbing up the Kardashev scale; though he did not mention the Kardashev scale because he hasn't encountered the Kardashev scale (as far as I know) |
 
 I have more that I have read. Gonna add them here soon.
+
+## Self-help books
+
+| Item         | Description     | Review |
+|--------------|-----------|------------|
+| | |
