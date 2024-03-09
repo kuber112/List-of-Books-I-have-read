@@ -26,7 +26,7 @@ In construction ⚒️
 | William Ross Ashby |   |
 | Shannon Eldwood Claude |   |
 | Norbert Wiener| |
-|Gilbert Strang | He is good at linear regression |
+|Gilbert Strang | He is good at linear algebra |
 | John von Neumann | | 
 
 I probably should add more newer authors who is still contributing post 2000's.
