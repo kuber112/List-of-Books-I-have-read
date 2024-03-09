@@ -14,6 +14,4 @@ I have more that I have read. Gonna add them here soon.
 
 ## Self-help books
 
-| Item         | Description     | Review |
-|--------------|-----------|------------|
-| | |
+In construction ⚒️
