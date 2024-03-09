@@ -12,6 +12,11 @@ Just want to share the books I have read. Keeps me accountable. A lot of the boo
 
 I have more that I have read. Gonna add them here soon.
 
+## Papers
+
+In construction ⚒️
+
+
 ## Self-help books
 
 In construction ⚒️
