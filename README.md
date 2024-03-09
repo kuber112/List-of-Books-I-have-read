@@ -29,4 +29,4 @@ In construction ⚒️
 |Gilbert Strang | |
 | John von Neumann | | 
 
-I probably should add more newer authors that are still kicking.
+I probably should add more newer authors who is still contributing post 2000's.
