@@ -25,4 +25,8 @@ In construction ⚒️
 |--------------|-----------|------------|
 | William Ross Ashby |   |
 | Shannon Eldwood Claude |  |
-| Norbert Wagner|  |
+| Norbert Wagner| |
+|Gilbert Strang | |
+| John von Neumann | | 
+
+I probably should add more newer authors that are still kicking.
