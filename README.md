@@ -24,9 +24,9 @@ In construction ⚒️
 | Person | Description | Review |
 |--------------|-----------|------------|
 | William Ross Ashby |   |
-| Shannon Eldwood Claude |  |
+| Shannon Eldwood Claude |   |
 | Norbert Wiener| |
-|Gilbert Strang | |
+|Gilbert Strang | He is good at linear regression |
 | John von Neumann | | 
 
 I probably should add more newer authors who is still contributing post 2000's.
