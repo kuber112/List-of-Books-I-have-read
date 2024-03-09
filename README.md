@@ -18,3 +18,11 @@ In construction ⚒️
 ## Self-help books
 
 In construction ⚒️
+
+## Authors whose books I am interested in
+
+| Person | Description | Review |
+|--------------|-----------|------------|
+| William Ross Ashby |   |
+| Shannon Eldwood Claude |  |
+| Norbert Wagner|  |
