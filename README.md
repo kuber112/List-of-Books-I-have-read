@@ -30,4 +30,4 @@ In construction ⚒️
 |Gilbert Strang | He is good at linear algebra |
 | John von Neumann | | 
 
-I probably should add more newer authors who is still contributing post 2000's. I do not want to dilute the focus of the topics I am interested though. Theres only a handful of great works out there that are worth reading.
+I probably should add more newer authors who is still contributing post 2000's. I do not want to dilute the focus of the topics I am interested though. Theres only a handful of great works out there that are worth reading. A problem for the tomorrow to think about.
