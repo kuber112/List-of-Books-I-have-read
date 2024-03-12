@@ -14,6 +14,10 @@ I have more that I have read. Gonna add them here soon.
 ## Papers
 
 In construction ⚒️
+| Paper | Year I read | Review |
+|--------------|-----------|------------|
+| Language Models are Few-Shot Learners | 2020-2021 | |
+| The Design and Implementation of XiaoIce, an Empathetic Social Chatbot | 2022 |  |
 
 
 ## Self-help books
