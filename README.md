@@ -18,8 +18,7 @@ In construction ⚒️
 |--------------|-----------|------------|
 | Language Models are Few-Shot Learners | 2020-2021 | |
 | The Design and Implementation of XiaoIce, an Empathetic Social Chatbot | 2022 |  |
-| A Path Towards Autonomous Machine Intelligence
- Version by Yann Lecun |2022-ish? | Part of his JEPA series. I try to keep up with his JEPA series.| 
+| A Path Towards Autonomous Machine Intelligence by Yann Lecun |2022-ish? | Part of his JEPA series. I try to keep up with his JEPA series.| 
 
 
 ## Self-help books
