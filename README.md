@@ -35,3 +35,7 @@ In construction ⚒️
 | John von Neumann | | 
 
 I probably should add more newer authors who is still contributing post 2000's. I do not want to dilute the focus of the topics I am interested though. Theres only a handful of great works out there that are worth reading. A problem for tomorrow to think about.
+
+
+## Concerns
+As much as I would like to be transparent with whoever is reading my page, there is also the nagging concern that I should not reveal all I know and what I have studied; it is perfectly fine to show the technologies but it is not so much to show the sciences behind the technology. Again, it is something very hard for me to take into consideration.
