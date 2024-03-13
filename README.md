@@ -38,4 +38,4 @@ I probably should add more newer authors who is still contributing post 2000's. 
 
 
 ## Concerns
-_**As much as I would like to be transparent with whoever is reading my page, there is also the nagging concern that I should not reveal all I know and what I have studied; it is perfectly fine to show the technologies but it is not so much to show the sciences behind the technology. Again, it is something very hard for me to take into consideration.**_
+_**As much as I would like to be transparent with whoever is reading my page, there is also the nagging concern that I should not reveal all I know and what I have studied. Again, it is something very hard for me to take into consideration.**_
