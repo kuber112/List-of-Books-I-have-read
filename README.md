@@ -18,7 +18,7 @@ In construction ⚒️
 |--------------|-----------|------------|
 | Language Models are Few-Shot Learners | 2020-2021 | |
 | The Design and Implementation of XiaoIce, an Empathetic Social Chatbot | 2022 |  |
-| A Path Towards Autonomous Machine Intelligence by Yann Lecun |2022-ish? | Part of his JEPA series. I try to keep up with his JEPA series.| 
+| A Path Towards Autonomous Machine Intelligence by Yann Lecun |2022-ish? | Part of his JEPA series. I try to keep up with it.| 
 
 
 ## Self-help books
@@ -34,6 +34,7 @@ In construction ⚒️
 | Norbert Wiener| |
 |Gilbert Strang | He is good at linear algebra |
 | John von Neumann | | 
+| Yann Lecun | |
 
 I probably should add more newer authors who is still contributing post 2000's. I do not want to dilute the focus of the topics I am interested though. Theres only a handful of great works out there that are worth reading. A problem for tomorrow to think about.
 
